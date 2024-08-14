@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/HippocampalMoon.png){: .align-right width="300px"}
+![Erwin Hahn Competiion](/images/HippocampalMoon.png){: .align-right width="300px"}
+I am a postdoctoral researcher at [Neuropsychlogie](https://www.ruhr-uni-bochum.de/neuropsy/) with [Prof. Nikolai Axmacher]([https://www.ruhr-uni-bochum.de/neuropsy/](https://scholar.google.de/citations?user=wMlPdQkAAAAJ&hl=de)).
+
 
 A data-driven personal website
 ======
