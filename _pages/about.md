@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/HippocampalMoon.tiff){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/HippocampalMoon.png){: .align-right width="300px"}
 
 A data-driven personal website
 ======
