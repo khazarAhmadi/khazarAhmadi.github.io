@@ -8,7 +8,7 @@ redirect_from:
 ---
 <figure>
   <img src="/images/HippocampalMoon.png" alt="Description" style="width:100%; max-width:1200px; height:auto;" />
-  <figcaption>My winning brain-artwork at Erwin Hahn Institute at 2023 [GitHub pages](https://pages.github.com/) [competition](https://hahn-institute.de/en/artifact-voting). This is the image caption. Visit <a href="[https://example.com](https://hahn-institute.de/en/artifact-voting)" target="_blank">this link</a> for more information.
+  <figcaption>My winning brain-artwork at Erwin Hahn Institute at 2023 []() <a href="https://hahn-institute.de/en/artifact-voting" target="_blank">competition</a>.
 </figcaption>
 </figure>
 
