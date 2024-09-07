@@ -12,6 +12,6 @@ I obtained my PhD in psychology at Otto-von-Guericke University Magdeburg and co
 
 <figure style="text-align: center;">
   <img src="/images/HippocampalMoon.png" alt="Description" style="width:100%; max-width:1200px; height:auto;" />
-  <figcaption style="text-align: center;">My winning brain-artwork at Erwin Hahn Institute <a href="https://hahn-institute.de/en/artifact-voting" target="_blank"> (2023 competition)</a>.
+  <figcaption style="text-align: center;">"Hippocampal Moon", my winning brain-artwork at Erwin Hahn Institute <a href="https://hahn-institute.de/en/artifact-voting" target="_blank"> (2023 competition)</a>.
 </figcaption>
 </figure>
