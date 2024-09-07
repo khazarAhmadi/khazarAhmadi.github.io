@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-![Erwin Hahn Competiion](/images/HippocampalMoon.png){: .align-right width="300px"}
+<img src="/images/HippocampalMoon.png" alt="My winning brain-artwork at Erwin Hahn Institute at 2023 competition" style="width:100%; max-width:1200px; height:auto;" />
 I am a neuroscientist interested in higher-order cognitive functions in health and disease. In particular, I study visual perception, memory systems and age-related cognitive decline. My research uses an integrative approach by combining behavioral tasks with multimodal neuroimaging and computational models to better understand neural underpinnings of human cognition.
 
 I obtained my PhD in psychology at Otto-von-Guericke University Magdeburg and completed my first postdoctoral training in Clinical Memory Research Unit at Lund University. Currently, I am a postdoc in Axmacher’s Lab at Ruhr University Bochum.
 
 You can contact me at Khazar.ahmadi@rub.de. Feel free to explore different sections of my page.
 
-<img src="/images/HippocampalMoon.png" alt="Description" style="width:100%; max-width:1200px; height:auto;" />
 
 
 
