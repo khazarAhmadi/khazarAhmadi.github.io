@@ -8,7 +8,8 @@ redirect_from:
 ---
 <figure>
   <img src="/images/HippocampalMoon.png" alt="Description" style="width:100%; max-width:1200px; height:auto;" />
-  <figcaption>My winning brain-artwork at Erwin Hahn Institute at 2023 c[competition](https://hahn-institute.de/en/artifact-voting)</figcaption>
+  <figcaption>My winning brain-artwork at Erwin Hahn Institute at 2023 [GitHub pages](https://pages.github.com/) [competition](https://hahn-institute.de/en/artifact-voting). This is the image caption. Visit <a href="[https://example.com](https://hahn-institute.de/en/artifact-voting)" target="_blank">this link</a> for more information.
+</figcaption>
 </figure>
 
 
@@ -17,7 +18,7 @@ I am a neuroscientist interested in higher-order cognitive functions in health a
 I obtained my PhD in psychology at Otto-von-Guericke University Magdeburg and completed my first postdoctoral training in Clinical Memory Research Unit at Lund University. Currently, I am a postdoc in Axmacher’s Lab at Ruhr University Bochum.
 
 
-
+This is the image caption. Visit <a href="[https://example.com](https://hahn-institute.de/en/artifact-voting)" target="_blank">this link</a> for more information.
 
 A data-driven personal website
 ======
