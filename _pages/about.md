@@ -8,7 +8,7 @@ redirect_from:
 ---
 <figure>
   <img src="/images/HippocampalMoon.png" alt="Description" style="width:100%; max-width:1200px; height:auto;" />
-  <figcaption>My winning brain-artwork at Erwin Hahn Institute at 2023 competition</figcaption>
+  <figcaption>My winning brain-artwork at Erwin Hahn Institute at 2023 c[competition](https://hahn-institute.de/en/artifact-voting)</figcaption>
 </figure>
 
 
@@ -16,9 +16,7 @@ I am a neuroscientist interested in higher-order cognitive functions in health a
 
 I obtained my PhD in psychology at Otto-von-Guericke University Magdeburg and completed my first postdoctoral training in Clinical Memory Research Unit at Lund University. Currently, I am a postdoc in Axmacher’s Lab at Ruhr University Bochum.
 
-You can contact me at Khazar.ahmadi@rub.de. Feel free to explore different sections of my page.
 
-My winning brain-artwork at Erwin Hahn Institute at 2023 competition
 
 
 A data-driven personal website
