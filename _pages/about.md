@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Welcome to my personal website!"
-text-align: center
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +8,7 @@ redirect_from:
 ---
 
 I am a neuroscientist interested in visual perception and higher-order cognitive functions in health and disease. In particular, I study visual perception, memory systems and age-related cognitive decline. My research uses an integrative approach by combining behavioral tasks with multimodal neuroimaging and computational models to better understand neural underpinnings of human cognition.
-
 I obtained my PhD in psychology at Otto-von-Guericke University Magdeburg and completed my first postdoctoral training in Clinical Memory Research Unit at Lund University. Currently, I am a postdoc in Axmacher’s Lab at Ruhr University Bochum.
-
 
 <figure>
   <img src="/images/HippocampalMoon.png" alt="Description" style="width:100%; max-width:1200px; height:auto;" />
