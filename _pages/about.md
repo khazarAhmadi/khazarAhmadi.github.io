@@ -6,8 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/HippocampalMoon.png" alt="Description" style="width:100%; max-width:1200px; height:auto;" />
-
+<figure>
+  <img src="/images/HippocampalMoon.png" alt="Description" style="width:100%; max-width:1200px; height:auto;" />
+  <figcaption>My winning brain-artwork at Erwin Hahn Institute at 2023 competition</figcaption>
+</figure>
 
 
 I am a neuroscientist interested in higher-order cognitive functions in health and disease. In particular, I study visual perception, memory systems and age-related cognitive decline. My research uses an integrative approach by combining behavioral tasks with multimodal neuroimaging and computational models to better understand neural underpinnings of human cognition.
