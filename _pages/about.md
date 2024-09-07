@@ -14,6 +14,9 @@ I obtained my PhD in psychology at Otto-von-Guericke University Magdeburg and co
 
 You can contact me at Khazar.ahmadi@rub.de. Feel free to explore different sections of my page.
 
+<img src="/images/HippocampalMoon.png" alt="Description" style="width:100%; max-width:1200px; height:auto;" />
+
+
 
 A data-driven personal website
 ======
