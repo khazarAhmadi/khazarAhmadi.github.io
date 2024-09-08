@@ -1,9 +1,10 @@
 ---
 title: "fMRI: From Theory to Practice"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/fMRI-course
 venue: "Ruhr University Bochum"
+date: "2022-10-1"
 location: "Bochum"
 ---
 
