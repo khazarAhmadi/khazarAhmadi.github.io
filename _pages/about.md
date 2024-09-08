@@ -15,3 +15,5 @@ I obtained my PhD in psychology at Otto-von-Guericke University Magdeburg and co
   <figcaption style="text-align: center;">"Hippocampal Moon", my winning brain-artwork at Erwin Hahn Institute <a href="https://hahn-institute.de/en/artifact-voting" target="_blank"> (2023 competition)</a>.
 </figcaption>
 </figure>
+
+Are you a graduate/undergrad student at Ruhr University? Would like to carry out your thesis or do an internship on any of the above-mentioned topics? Please get in touch. I may have some interesting projects for you!!
