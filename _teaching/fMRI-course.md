@@ -8,11 +8,3 @@ location: "Bochum"
 ---
 
 In this course, the students learn about the physics of fMRI and gain hands-on experience with data analysis. The course is held every Winter Semester from 2022.
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
