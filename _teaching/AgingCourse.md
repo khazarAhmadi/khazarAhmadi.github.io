@@ -1,9 +1,10 @@
 ---
 title: "Aging, Dementia and Memory Disorders"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/AgingCourse
 venue: "Ruhr University Bochum"
+date: "2024-4-1"
 location: "Bochum"
 ---
 
