@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a neuroscientist interested in higher-order cognitive functions in health and disease. In particular, I study visual perception, memory systems and age-related cognitive decline. My research uses an integrative approach by combining behavioral tasks with multimodal neuroimaging and computational models to better understand the neural underpinnings of human cognition.
 
-I obtained my PhD in psychology at Otto-von-Guericke University Magdeburg and completed my first postdoctoral training in Clinical Memory Research Unit at Lund University. Currently, I am a postdoc in the Department of Neuropsychology at Ruhr University Bochum.
+I obtained my PhD in psychology at Otto-von-Guericke University Magdeburg (Germany) and completed my first postdoctoral training in Clinical Memory Research Unit at Lund University, Sweden. Currently, I am a postdoc in the Department of Neuropsychology at Ruhr University Bochum, Germany.
 
 <figure style="text-align: center;">
   <img src="/images/HippocampalMoon.png" alt="Description" style="width:100%; max-width:1200px; height:auto;" />
