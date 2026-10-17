@@ -10,7 +10,7 @@ I am a Neuroimaging Scientist with more than ten years of experience applying ad
 
 Prior to transitioning into industry, I earned a PhD in Psychology with a focus on neuroimaging from Otto-von-Guericke University Magdeburg (Germany). I subsequently completed two postdoctoral trainings at Lund University (Sweden) and Ruhr University Bochum (Germany), followed by a research visit to the National Institutes of Health (Bethesda, USA).
 
-Throughout my academic career, I investigated higher-order cognitive functions in health and disease, with a particular focus on visual perception, memory systems, and age-related cognitive decline. By combining multimodal neuroimaging with computational modeling and behavioral paradigms, I sought to better understand the neural mechanisms underlying human cognition.
+Throughout my academic career, I investigated higher-order cognitive functions in health and disease, with a particular emphasis on visual perception, memory systems, and age-related cognitive decline. By combining multimodal neuroimaging with computational modeling and behavioral paradigms, I sought to better understand the neural mechanisms underlying human cognition.
 
 With a strong publication record, extensive experience in scientific communication, stakeholder management, and cross-disciplinary collaboration, I serve as a bridge between academic research and industry innovation. Today, I represent Skope at scientific conferences and work closely with the neuroimaging community to accelerate the development of next-generation brain imaging technologies.
 
