@@ -6,9 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a neuroscientist interested in higher-order cognitive functions in health and disease. In particular, I study visual perception, memory systems and age-related cognitive decline. My research uses an integrative approach by combining behavioral tasks with multimodal neuroimaging and computational models to better understand the neural underpinnings of human cognition.
+I am a Neuroimaging Scientist with more than ten years of experience applying advanced MRI methodologies in neuroscience and clinical research. My expertise spans diffusion, functional, structural, and perfusion MRI across 3T and 7T systems. Currently, I work at Skope Magnetic Resonance Technologies, where I design and execute neuroimaging studies to evaluate the added value of dynamic field monitoring for advanced applications, particularly in diffusion MRI.
 
-I obtained my PhD in psychology at Otto-von-Guericke University Magdeburg (Germany) and completed my first postdoctoral training in Clinical Memory Research Unit at Lund University, Sweden. Currently, I am a postdoc in the Department of Neuropsychology at Ruhr University Bochum, Germany.
+Prior to transitioning into industry, I earned a PhD in Psychology with a focus on neuroimaging from Otto-von-Guericke University Magdeburg (Germany). I subsequently completed two postdoctoral trainings at Lund University (Sweden) and Ruhr University Bochum (Germany), followed by a research visit to the National Institutes of Health (Bethesda, USA).
+
+Throughout my academic career, I investigated higher-order cognitive functions in health and disease, with a particular focus on visual perception, memory systems, and age-related cognitive decline. By combining multimodal neuroimaging with computational modeling and behavioral paradigms, I sought to better understand the neural mechanisms underlying human cognition.
+
+With a strong publication record, extensive experience in scientific communication, stakeholder management, and cross-disciplinary collaboration, I serve as a bridge between academic research and industry innovation. Today, I represent Skope at scientific conferences and work closely with the neuroimaging community to accelerate the development of next-generation brain imaging technologies.
 
 <figure style="text-align: center;">
   <img src="/images/HippocampalMoon.png" alt="Description" style="width:100%; max-width:1200px; height:auto;" />
@@ -16,4 +20,3 @@ I obtained my PhD in psychology at Otto-von-Guericke University Magdeburg (Germa
 </figcaption>
 </figure>
 
-Are you a graduate/undergrad student at Ruhr University? Would you like to carry out your thesis or do an internship on any of the above-mentioned topics? Please get in touch. I may have some interesting projects for you!!
