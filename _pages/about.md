@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Neuroimaging Scientist with more than ten years of experience applying advanced MRI methodologies in neuroscience and clinical research. My expertise spans diffusion, functional, structural, and perfusion MRI across 3T and 7T systems. Currently, I work at Skope Magnetic Resonance Technologies, where I design and execute neuroimaging studies to evaluate the added value of dynamic field monitoring for advanced applications, particularly in diffusion MRI.
+I am a neuroimaging scientist with more than ten years of experience applying advanced MRI methodologies in neuroscience and clinical research. My expertise spans diffusion, functional, structural, and perfusion MRI across 3T and 7T systems. Currently, I work at Skope Magnetic Resonance Technologies, where I design and execute neuroimaging studies to evaluate the added value of dynamic field monitoring for advanced applications, particularly in diffusion MRI.
 
 Prior to transitioning into industry, I earned a PhD in Psychology with a focus on neuroimaging from Otto-von-Guericke University Magdeburg (Germany). I subsequently completed two postdoctoral trainings at Lund University (Sweden) and Ruhr University Bochum (Germany), followed by a research visit to the National Institutes of Health (Bethesda, USA).
 
